@@ -64,8 +64,6 @@ yarn install
 
 3. Run development server
 npm run dev
-# or
-yarn dev
 
 
 📌 Usage
